@@ -13,3 +13,11 @@
 <b> Thoughts:</b> The <a href="https://ocw.mit.edu/">MIT OCW</a> lectures are going to be a real boon and a good source of knowledge.
 
 <b> Work:</b> Completed lectures upto <a href="https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL221E2BBF13BECF6C&index=6">this</a> on the <a href="https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">MIT 18.06SC Linear Algebra</a> course.
+
+## Day 2 : Jan 16, 2019
+
+<b> Today's Progress:</b> Learned core concepts of Decision Trees, Linear Regression, Naive Bayes algorithm and Support Vector Machines. Worked with ML libraries - pandas, numpy, sklearn and used few classifiers from the sklearn library.
+
+<b> Thoughts:</b> Learned a few concepts and got to use those in code via the sklearn library.
+
+<b> Work:</b> 
