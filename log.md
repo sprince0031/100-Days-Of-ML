@@ -20,4 +20,4 @@
 
 <b> Thoughts:</b> Learned a few concepts and got to use those in code via the sklearn library.
 
-<b> Work:</b> 
+<b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/6ae026d7baffdba1d9441f549f26af6e6f619ae7">commit 6ae026d7baffdba1d9441f549f26af6e6f619ae7</a>
