@@ -21,3 +21,11 @@
 <b> Thoughts:</b> Learned a few concepts and got to use those in code via the sklearn library.
 
 <b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/6ae026d7baffdba1d9441f549f26af6e6f619ae7">commit 6ae026d7baffdba1d9441f549f26af6e6f619ae7</a>
+
+## Day 3 : Jan 17, 2019
+
+<b> Today's Progress:</b> Saw how to split data sets into training and testing sets and why it should be done. Learnt about over fitting and under fitting. Plotted my first graphs(kind of a disaster *facepalm*).
+
+<b> Thoughts:</b> Have to figure out a way to plot the graphs appropriately according to the data and also how to properly resize lists so that they can be compared.
+
+<b> Work:</b> 
