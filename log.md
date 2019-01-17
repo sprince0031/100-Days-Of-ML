@@ -28,4 +28,4 @@
 
 <b> Thoughts:</b> Have to figure out a way to plot the graphs appropriately according to the data and also how to properly resize lists so that they can be compared.
 
-<b> Work:</b> 
+<b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/5a91b5a00892f1f453a6d7d4d85137140e882479">commit 5a91b5a00892f1f453a6d7d4d85137140e882479</a>
