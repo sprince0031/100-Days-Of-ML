@@ -29,3 +29,11 @@
 <b> Thoughts:</b> Have to figure out a way to plot the graphs appropriately according to the data and also how to properly resize lists so that they can be compared.
 
 <b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/5a91b5a00892f1f453a6d7d4d85137140e882479">commit 5a91b5a00892f1f453a6d7d4d85137140e882479</a>
+
+## Day 4 : Jan 20, 2019
+
+<b> Today's Progress:</b> Learnt a thing or two about cleaning data to exclude invalid or unavalable data from the data set. Understood the importance of this step.
+
+<b> Thoughts:</b> Been sick and so a couple of days have been skipped. Not moving as fast as I wanted to. Have to pick up the pace.
+
+<b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/">commit </a>
