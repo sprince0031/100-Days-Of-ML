@@ -36,4 +36,4 @@
 
 <b> Thoughts:</b> Been sick and so a couple of days have been skipped. Not moving as fast as I wanted to. Have to pick up the pace.
 
-<b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/">commit </a>
+<b> Work:</b> <a href="https://github.com/sprince0031/100-Days-Of-ML/commit/bb6c22d6bff49b75370b9cd5e2e88a3303764dbf">commit bb6c22d6bff49b75370b9cd5e2e88a3303764dbf</a>
