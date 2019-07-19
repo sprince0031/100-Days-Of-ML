@@ -1,3 +1,3 @@
-# 100 Days Of ML Code Challenge
+# My Machine Learning, Learning Journey
 
-Repo containing my progress and log for the 100 Days of ML code challenge.
+A repo containing my progress in my ML journey.
